@@ -4,10 +4,10 @@ description: "" # This will show up in places like twitter, linkedin, etc, if yo
 
 # Email / Social media user names used by the minima theme:
 # All of these are optional and can be removed or commented out
-email_username: "newlifecac@gmail.com"
-phone_username: "+1(718)210-6381"
-wechat_username: "deren153"
-website_username: "https://www.newlifecac.org/"
+linkedin_username: "微信: deren153"
+github_username: "电话: +1(718)210-6381"
+twitter_username: "邮箱: newlifecac@gmail.com"
+facebook_username: "网站: https://www.newlifecac.org/"
 #twitter_username: "twitteruser"
 #github_username: "githubuser"
 #linkedin_username: "linkedinuser"
@@ -15,8 +15,8 @@ website_username: "https://www.newlifecac.org/"
 #flickr_username: username
 #instagram_username: username
 #pinterest_username: username
-youtube_username: username
-googleplus_username: +username
+#youtube_username: username
+#googleplus_username: +username
 
 #########################################################################################
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
