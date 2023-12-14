@@ -1,5 +1,5 @@
 title: "新生命会众宣道会"
-author: "事工"
+author: ""
 description: "" # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
 
 # Email / Social media user names used by the minima theme:
@@ -8,6 +8,8 @@ linkedin_username: "微信: deren153"
 github_username: "电话: +1(718)210-6381"
 twitter_username: "邮箱: newlifecac@gmail.com"
 facebook_username: "网站: www.newlifecac.org"
+mailto_username: ""
+tel_username: ""
 #twitter_username: "twitteruser"
 #github_username: "githubuser"
 #linkedin_username: "linkedinuser"
